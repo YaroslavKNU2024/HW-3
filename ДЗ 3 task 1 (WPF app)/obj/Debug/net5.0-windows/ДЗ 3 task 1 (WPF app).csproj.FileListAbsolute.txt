@@ -1,0 +1,22 @@
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).exe
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).deps.json
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).runtimeconfig.json
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).runtimeconfig.dev.json
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).dll
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ref\ДЗ 3 task 1 (WPF app).dll
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\bin\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).pdb
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app)_MarkupCompile.cache
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app)_MarkupCompile.lref
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).g.resources
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).AssemblyInfo.cs
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).dll
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ref\ДЗ 3 task 1 (WPF app).dll
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).pdb
+C:\Users\yasma\source\repos\ДЗ 3 task 1 (WPF app)\obj\Debug\net5.0-windows\ДЗ 3 task 1 (WPF app).genruntimeconfig.cache
