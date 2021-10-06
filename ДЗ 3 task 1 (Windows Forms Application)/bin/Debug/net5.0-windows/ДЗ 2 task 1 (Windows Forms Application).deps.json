@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ДЗ 2 task 1 (Windows Forms Application)/1.0.0": {
+        "runtime": {
+          "ДЗ 2 task 1 (Windows Forms Application).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ДЗ 2 task 1 (Windows Forms Application)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

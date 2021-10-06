@@ -1,0 +1,18 @@
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).exe
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).deps.json
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).runtimeconfig.json
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).runtimeconfig.dev.json
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).dll
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ref\ДЗ 2 task 1 (Windows Forms Application).dll
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\bin\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).pdb
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ_2_task_1__Windows_Forms_Application_.Form1.resources
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).csproj.GenerateResource.cache
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).AssemblyInfo.cs
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).dll
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ref\ДЗ 2 task 1 (Windows Forms Application).dll
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).pdb
+C:\Users\yasma\source\repos\ДЗ 2 task 1 (Windows Forms Application)\obj\Debug\net5.0-windows\ДЗ 2 task 1 (Windows Forms Application).genruntimeconfig.cache
