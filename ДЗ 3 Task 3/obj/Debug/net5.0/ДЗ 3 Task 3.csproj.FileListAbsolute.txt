@@ -1,0 +1,16 @@
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ДЗ 3 Task 3.exe
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ДЗ 3 Task 3.deps.json
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ДЗ 3 Task 3.runtimeconfig.json
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ДЗ 3 Task 3.runtimeconfig.dev.json
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ДЗ 3 Task 3.dll
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ref\ДЗ 3 Task 3.dll
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\bin\Debug\net5.0\ДЗ 3 Task 3.pdb
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.csproj.AssemblyReference.cache
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.AssemblyInfoInputs.cache
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.AssemblyInfo.cs
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.csproj.CoreCompileInputs.cache
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.dll
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ref\ДЗ 3 Task 3.dll
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.pdb
+C:\Users\yasma\source\repos\ДЗ 3 Task 3\obj\Debug\net5.0\ДЗ 3 Task 3.genruntimeconfig.cache
